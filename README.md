@@ -13,3 +13,5 @@ This Bash script provides a quick summary of your system's performance:
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+```
+https://roadmap.sh/projects/server-stats
